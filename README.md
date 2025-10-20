@@ -6,4 +6,4 @@ Four-eyed wizards taught sand to think, so now I'm trying to make a zebra that c
 
 Project Melinoë coming soon.
 
-https://noumena.dev coming soon.
+[noumena.dev](https://noumena.dev) coming soon.
